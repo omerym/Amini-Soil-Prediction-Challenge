@@ -7,7 +7,7 @@
 1. **Download datasets** from the [competition data page](https://zindi.africa/competitions/amini-soil-prediction-challenge/data)
 2. **Organize files**:
    - Create an `earth data` folder containing all earth observations csv files
-   - Place `Train.csv` and `Test.csv` in the main project folder
+   - Place `Gap_Test`, `Train.csv` and `Test.csv` in the main project folder
   
 ## Execution Workflow
 1. **Enhance datasets**:
