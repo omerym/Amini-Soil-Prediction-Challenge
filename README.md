@@ -20,3 +20,6 @@
      - Load enhanced datasets
      - Train machine learning models
      - Generate competition submissions
+
+## Solution Explanition
+https://omerym.github.io/portfolio/competitions/amini-soil-prediction
